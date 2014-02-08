@@ -11,8 +11,6 @@ int shapeSize = 5;
 int vitesseGlobale = 20;
 float test1 = 1;
 
-boolean voila=true;
-
 int posX = 0;
 int posY = 0;
 int currentPoint = -1; 
